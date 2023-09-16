@@ -24,4 +24,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nidahassannida&show_icons=true&locale=en" alt="nidahassannida" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nidahassannida&" alt="nidahassannida" /></p>
