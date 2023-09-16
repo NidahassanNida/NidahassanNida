@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nida Hassan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nida-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="nida-hassan" /> </p>
-<img align="right" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" alt="coding" height="200">
+<img align="right" src="[https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fishanidey&psig=AOvVaw1vTWo2qBfWMyEeECynpC9e&ust=1694948915888000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjUifL-roEDFQAAAAAdAAAAABAi)" alt="coding" height="200">
 
 
 - 🌱 I’m currently learning **Flutter**
