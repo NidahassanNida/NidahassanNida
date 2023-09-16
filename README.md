@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **MERN, React JS, Noda JS**
+- 💬 Ask me about **MERN, React JS, Node JS**
 
 - 📫 How to reach me **nidafx9@gmail.com**
 
