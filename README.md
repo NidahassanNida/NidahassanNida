@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Nida Hassan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nida-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="nida-hassan" /> </p>
-<img align="right" src="https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif" alt="coding">
+<img align="right" src="https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif" alt="coding" height="200">
 
 
 - 🌱 I’m currently learning **Flutter**
