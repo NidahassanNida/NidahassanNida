@@ -26,7 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nida-hassan&" alt="nida-hassan" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MashymAli&theme=prussian&border_radius=4.3&background=051028)](https://git.io/streak-stats)
 
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/87118384/211867429-0b0dd8ee-4287-443b-8fe1-27c2ff9f0fce.gif)
