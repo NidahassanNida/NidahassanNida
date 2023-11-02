@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **MERN, React JS, Node JS**
 
-- 📫 How to reach me **nidafx9@gmail.com**
-
 - ⚡ Fun fact **Hello, World! Your Code's Birthplace.**
 
 <h3 align="left">Connect with me:</h3>
