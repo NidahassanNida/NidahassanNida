@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Nida Hassan</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nida-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="nida-hassan" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=nida-hassan&label=Profile%20views&color=0e75b6&style=flat](https://tenor.com/view/thanks-thank-you-come-again-gif-17952620)" alt="nida-hassan" /> </p>
 <img align="right" src="https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif" alt="coding" height="200">
 
 
@@ -24,4 +24,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nida-hassan&" alt="nida-hassan" /></p>
 
-<div class="tenor-gif-embed" data-postid="17952620" data-share-method="host" data-aspect-ratio="3.68" data-width="100%"><a href="https://tenor.com/view/thanks-thank-you-come-again-gif-17952620">Thanks Thank You Sticker</a>from <a href="https://tenor.com/search/thanks-stickers">Thanks Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
