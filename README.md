@@ -2,7 +2,8 @@
 <h3 align="center">Web Developer | App Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nida-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="nida-hassan" /> </p>
-<img align="right" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif" alt="coding"  height="350">
+
+<img align="right" alt="coding" width="400" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
 
 
 - 🌱 I’m currently learning **Flutter**
