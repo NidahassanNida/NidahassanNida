@@ -1,10 +1,9 @@
-![logo](https://github.com/nida-hassan/nida-hassan/blob/main/Homebase-Thumb-v01-unscreen.gif)
 <h1 align="center">Hi 👋, I'm Nida Hassan</h1>
 <h3 align="center">Web Developer | App Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nida-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="nida-hassan" /> </p>
 
-
+<img align="right" alt="coding" width="350" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
 
 - 🌱 I’m currently learning **Flutter**
 
