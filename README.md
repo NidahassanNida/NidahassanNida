@@ -9,7 +9,6 @@
 
 - 💬 Ask me about **MERN, React JS, Node JS**
 
-- ⚡ Fun fact **MERN by Day, Flutter by Night**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
