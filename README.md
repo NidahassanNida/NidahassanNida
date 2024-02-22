@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nida Hassan</h1>
 <h3 align="center">Web Developer | App Developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nida-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="nida-hassan" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nida-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="nida-hassan" /> </p>
+
+<img align="right" alt="coding" width="350" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
 
 <p align="left"> <a href="https://twitter.com/nida___hassan" target="blank"><img src="https://img.shields.io/twitter/follow/nida___hassan?logo=twitter&style=for-the-badge" alt="nida___hassan" /></a> </p>
 
